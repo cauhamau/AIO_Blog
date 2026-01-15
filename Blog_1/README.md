@@ -164,7 +164,7 @@ Nhờ cơ chế này, chatbot càng được sử dụng nhiều thì càng “t
 
 **6. Trả lời người dùng**
 
-Cuối cùng, bot gửi lại câu trả lời dưới dạng văn bản (hoặc giọng ), sao cho dễ đọc và thân thiện nhất có thể.
+Cuối cùng, bot gửi lại câu trả lời dưới dạng văn bản (hoặc giọng nói), sao cho dễ đọc và thân thiện nhất có thể.
 <p align="center">
   <img src="images\chat-ui.gif" alt="Quy trình chat" width="600"><br/>
   <em>Hình 3.6. Chatbot phản hồi sao cho dễ đọc và thân thiện nhất với người dùng</em>
@@ -176,8 +176,9 @@ Cuối cùng, bot gửi lại câu trả lời dưới dạng văn bản (hoặc
 # Phần 4: Các công nghệ chính trong AI Chatbot
 Khác với rule-based chatbot, AI Chatbot sử dụng các công nghệ tiên tiến về AI để tối ưu độ chính xác và mức độ trả lời tự nhiên của chatbot, đồng thời có thể trả lời nhiều câu hỏi của người dùng dựa trên ngữ cảnh.
 
-**1/ NLP - Natural Language Processing (Xử lí ngôn ngữ tự nhiên):**
-- Xử lí ngôn ngữ tự nhiên là công nghệ giúp AI nhận diện được ngôn ngữ, kí tự, hiểu được ngữ pháp, ngữ cảnh của một đoạn văn, câu nói hoặc một đoạn hội thoại. Với NLP, chatbot có thể đưa ra phản hồi tự nhiên, hiệu quả và phù hợp với ngữ cảnh của người đặt câu hỏi, cung cấp thêm thông tin bao quát, chính xác theo nhu cầu người dùng.
+**1. NLP - Natural Language Processing (Xử lí ngôn ngữ tự nhiên):**
+
+Xử lí ngôn ngữ tự nhiên là công nghệ giúp AI nhận diện được ngôn ngữ, kí tự, hiểu được ngữ pháp, ngữ cảnh của một đoạn văn, câu nói hoặc một đoạn hội thoại. Với NLP, chatbot có thể đưa ra phản hồi tự nhiên, hiệu quả và phù hợp với ngữ cảnh của người đặt câu hỏi, cung cấp thêm thông tin bao quát, chính xác theo nhu cầu người dùng.
 
 Các kĩ thuật chính của NLP trong AI Chatbot:
 - Tokenization: Phân tách một văn bản thành các kí tự, từ ngữ, các câu riêng biệt có thể hiểu được. Giúp tìm ra các keyword chính để xử lí, phân tích, hiểu ngữ nghĩa của con người để đưa ra các câu trả lời phù hợp tới chủ đề chính.
@@ -190,8 +191,9 @@ Ví dụ:
 
 - Sentiment Analysis: Phân tích cảm xúc. Đóng vai trò nhận diện cảm xúc của người dùng trong đoạn hội thoại, từ đó đưa ra câu trả lời với ngôn từ phù hợp, tránh phật ý người dùng. Kĩ thuật này giúp cho AI Chatbot trả lời được tự nhiên, "cảm xúc" hơn và tăng trải nghiệm của người dùng chatbot.
 
-**2) Mô hình AI / Machine Learning / LLM:**
-- Những công nghệ này là bộ não của AI Chatbot, các dữ liệu được đào tạo, cường hóa và cải thiện để giúp chatbot đưa ra các câu trả lời đa dạng hơn.
+**2. Mô hình AI / Machine Learning / LLM:**
+
+Những công nghệ này là bộ não của AI Chatbot, các dữ liệu được đào tạo, cường hóa và cải thiện để giúp chatbot đưa ra các câu trả lời đa dạng hơn.
 
 Machine Learning: Các thuật toán học máy đào tạo chatbot cách xử lí và trả lời các câu hỏi của người dùng, dựa trên dữ liệu đã có sẵn
 
@@ -201,8 +203,9 @@ LLM: Mô hình ngôn ngữ lớn chứa lượng dữ liệu khổng lồ về n
 
 Bên cạnh các công nghệ trên, hiện nay Generative AI (AI tạo sinh) cũng đang được ứng dụng vào quá trình huấn luyện chatbot để cải thiện hiệu năng. AI tạo sinh biến chatbot từ công cụ Q&A thành một AI Agent, giúp đoạn hội thoại trở thành như cuộc trò chuyện tư vấn giữa người với người. Các câu trả lời sẽ không còn khuôn mẫu mà trở nên đa dạng hơn, chatbot có thể tự suy luận đưa ra các tư vấn ngoài những dữ liệu được đào tạo nhưng vẫn theo sát nội dung của cuộc trò chuyện.
 
-**3) Phản hồi và học tiếp:**
-- Ngoài khả năng trả lời câu hỏi của người dùng, AI chatbot còn có khả năng học thêm dựa trên các câu trả lời hiện tại của người dùng. Các dữ liệu liên tục được cập nhật dựa trên đoạn hội thoại của người dùng hiện tại và cả những người dùng khác cùng chủ đề để tối ưu và mở rộng kiến thức của chatbot, từ đó chatbot trở nên thông minh hơn theo thời gian.
+**3. Phản hồi và học tiếp:**
+
+Ngoài khả năng trả lời câu hỏi của người dùng, AI chatbot còn có khả năng học thêm dựa trên các câu trả lời hiện tại của người dùng. Các dữ liệu liên tục được cập nhật dựa trên đoạn hội thoại của người dùng hiện tại và cả những người dùng khác cùng chủ đề để tối ưu và mở rộng kiến thức của chatbot, từ đó chatbot trở nên thông minh hơn theo thời gian.
 
 # Phần 5: Các ví dụ so sánh (Comparative Examples)
 
@@ -313,3 +316,4 @@ Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B
 
 
 https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/
+
