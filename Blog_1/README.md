@@ -260,17 +260,11 @@ Nói cách khác, chatbot hiện đại chủ yếu hoạt động bằng cách 
 
  Mặc dù đều được gọi là “AI chatbot”, nhưng mỗi hệ thống **được thiết kế cho mục tiêu khác nhau**.
 
-**ChatGPT**
-
-Được tối ưu cho hội thoại tổng quát: giải thích kiến thức, trả lời câu hỏi, viết nội dung. Phù hợp khi người dùng muốn “nói chuyện” và khám phá nhiều chủ đề khác nhau.
-
-**Gemini (Google)**
-
-Mạnh ở việc tìm kiếm, tổng hợp thông tin và kết nối dữ liệu từ nhiều nguồn, và tích hợp sâu với hệ sinh thái Google. Thường được dùng như một trợ lý hỗ trợ tra cứu và phân tích thông tin.
-
-**Copilot (Microsoft)**
-
-Tập trung vào hỗ trợ công việc: viết code, soạn email, làm việc với tài liệu Office. Copilot giống một đồng nghiệp hỗ trợ trong quá trình làm việc hơn là một chatbot trò chuyện thuần túy.
+ | **Chatbot**             | **Mục tiêu chính**           | **Thế mạnh nổi bật**                                                            | **Phù hợp khi nào**                                                                        |
+| ----------------------- | ---------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **ChatGPT**             | Hội thoại tổng quát          | Giải thích kiến thức, trả lời câu hỏi, viết nội dung đa lĩnh vực                | Khi người dùng muốn “nói chuyện”, hỏi nhiều chủ đề khác nhau, hoặc cần giải thích dễ hiểu  |
+| **Gemini (Google)**     | Tra cứu & tổng hợp thông tin | Tìm kiếm, tổng hợp dữ liệu từ nhiều nguồn, tích hợp sâu với hệ sinh thái Google | Khi cần tra cứu thông tin, phân tích dữ liệu, hoặc làm việc gắn với các dịch vụ của Google |
+| **Copilot (Microsoft)** | Hỗ trợ công việc             | Viết code, soạn email, làm việc với tài liệu Office                             | Khi cần một trợ lý hỗ trợ trực tiếp trong quá trình làm việc hằng ngày                     |
 
 Nói đơn giản:
 
@@ -337,6 +331,7 @@ Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B
 
 
 https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/
+
 
 
 
