@@ -232,7 +232,7 @@ Bên cạnh các công nghệ trên, hiện nay Generative AI (AI tạo sinh) c�
 
 Ngoài khả năng trả lời câu hỏi của người dùng, AI chatbot còn có khả năng học thêm dựa trên các câu trả lời hiện tại của người dùng. Các dữ liệu liên tục được cập nhật dựa trên đoạn hội thoại của người dùng hiện tại và cả những người dùng khác cùng chủ đề để tối ưu và mở rộng kiến thức của chatbot, từ đó chatbot trở nên thông minh hơn theo thời gian.
 
-# 5. Các ví dụ so sánh (Comparative Examples)
+# 5. Các ví dụ so sánh 
 
 **5.1. Chatbot và trợ lý con người: giống và khác nhau ở đâu?**
 
@@ -286,7 +286,7 @@ Nói đơn giản:
 
 Điểm khác nhau nằm ở **cách triển khai và ngữ cảnh sử dụng**, không hẳn là “ai thông minh hơn ai”.
 
-# Phần 6: Những vấn đề thường gặp và giới hạn của AI chatbot (Common problems and limitations of AI chatbots)
+# Phần 6: Những vấn đề thường gặp và giới hạn của AI chatbot 
 **6.1. Chatbot có thể hiểu nhầm nhưng trả lời rất tự tin**
 
 Một đặc điểm dễ gây hiểu lầm của AI chatbot là: **trả lời nghe rất hợp lý, nhưng vẫn có thể sai.**
@@ -339,6 +339,7 @@ Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B
 
 
 https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/
+
 
 
 
