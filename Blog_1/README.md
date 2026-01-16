@@ -286,7 +286,7 @@ Nói đơn giản:
 
 Điểm khác nhau nằm ở **cách triển khai và ngữ cảnh sử dụng**, không hẳn là “ai thông minh hơn ai”.
 
-# Phần 6: Những vấn đề thường gặp và giới hạn của AI chatbot 
+# 6. Những vấn đề thường gặp và giới hạn của AI chatbot 
 **6.1. Chatbot có thể hiểu nhầm nhưng trả lời rất tự tin**
 
 Một đặc điểm dễ gây hiểu lầm của AI chatbot là: **trả lời nghe rất hợp lý, nhưng vẫn có thể sai.**
@@ -339,6 +339,7 @@ Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B
 
 
 https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/
+
 
 
 
