@@ -266,7 +266,9 @@ Nói cách khác, chatbot hiện đại chủ yếu hoạt động bằng cách 
 | **Gemini (Google)**     | Tra cứu & tổng hợp thông tin | Tìm kiếm, tổng hợp dữ liệu từ nhiều nguồn, tích hợp sâu với hệ sinh thái Google | Khi cần tra cứu thông tin, phân tích dữ liệu, hoặc làm việc gắn với các dịch vụ của Google | Rất lớn – tối ưu cho xử lý văn bản dài và nhiều nguồn    | Dễ cho kết quả mang tính tổng quát; phụ thuộc mạnh vào ngữ cảnh tìm kiếm |
 | **Copilot (Microsoft)** | Hỗ trợ công việc             | Viết code, soạn email, làm việc với tài liệu Office                             | Khi cần một trợ lý hỗ trợ trực tiếp trong quá trình làm việc hằng ngày                     | Trung bình – lớn, tối ưu theo ngữ cảnh công việc         | Giới hạn ngoài môi trường làm việc; phụ thuộc hệ sinh thái Microsoft     |
 
-**<em>Bảng 5.1. So sánh giữa các AI Chatbot </em>**
+<p align="center">  
+<em>Bảng 5.1. So sánh giữa các AI Chatbot</em>
+</p>
 
 Nói đơn giản:
 
@@ -333,6 +335,7 @@ Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B
 
 
 https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/
+
 
 
 
