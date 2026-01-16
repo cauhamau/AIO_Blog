@@ -75,6 +75,10 @@ AI chatbot có thể phân tích lịch sử tương tác, sở thích của ng�
 
 ## 2.4. Các ứng dụng thực tế
 AI chatbot đã và đang xuất hiện ở khắp mọi nơi:
+<p align="center">
+  <img src="images\chatbot_usecase_mindmap.png" alt="Các ứng dụng thực tế của AI chatbot" width="600"><br/>
+  <em>Hình 2.1. Các ứng dụng thực tế của AI chatbot</em>
+</p>
 **Dịch vụ khách hàng:**
 
 - Ngân hàng: Kiểm tra số dư, lịch sử giao dịch, chặn thẻ
