@@ -202,7 +202,7 @@ Example: "What's the weather in Chicago tomorrow?" → Chicago is the entity to 
   <em>Hình 4.3. Sentiment Analysis</em>
 </p>
 
-**2. AI models / Machine Learning / LLM:**
+**4.2. AI models / Machine Learning / LLM:**
 
 These technologies are the brain of AI chatbot, the data is trained, reinforced to help optimize the chatbot responses.
 
@@ -219,7 +219,7 @@ Large Language Models (LLMs): are trained on massive amounts of linguistic data,
 
 In addition to the technologies mentioned above, Generative AI is now being used in chatbot training to improve performance. Generative AI turns chatbots from basic question-and-answer tools into AI agents, making conversations feel more like real human consultations. Instead of giving fixed or repetitive answers, chatbots can provide more flexible responses and reason to offer suggestions beyond their training data, while still staying relevant to the context of the conversation.
 
-**3. Feedback and Continuous Learning:**
+**4.3. Feedback and Continuous Learning:**
 
 In addition to answering user questions, AI chatbots can continue learning based on users’ current responses. Data is continuously updated from ongoing conversations with both the current user and other users on the same topics, allowing the chatbot to optimize and expand its knowledge. As a result, the chatbot becomes smarter over time.
 
