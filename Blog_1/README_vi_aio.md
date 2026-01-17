@@ -176,7 +176,7 @@ Cuối cùng, bot gửi lại câu trả lời dưới dạng văn bản (hoặc
 
 Khác với rule-based chatbot, AI chatbot sử dụng các công nghệ tiên tiến về AI để tối ưu độ chính xác và mức độ trả lời tự nhiên của chatbot, đồng thời có thể trả lời nhiều câu hỏi của người dùng dựa trên ngữ cảnh.
 
-## 1. NLP - Natural Language Processing (Xử lí ngôn ngữ tự nhiên):
+## 4.1. NLP - Natural Language Processing (Xử lí ngôn ngữ tự nhiên):
 
 Xử lí ngôn ngữ tự nhiên là công nghệ giúp AI nhận diện được ngôn ngữ, kí tự, hiểu được ngữ pháp, ngữ cảnh của một đoạn văn, câu nói hoặc một đoạn hội thoại. Với NLP, chatbot có thể đưa ra phản hồi tự nhiên, hiệu quả và phù hợp với ngữ cảnh của người đặt câu hỏi, cung cấp thêm thông tin bao quát, chính xác theo nhu cầu người dùng.
 
@@ -206,7 +206,7 @@ Ví dụ:
   <em>Hình 4.3. Sentiment Analysis</em>
 </p>
 
-## 2. Mô hình AI / Machine Learning / LLM:
+## 4.2. Mô hình AI / Machine Learning / LLM:
 
 Những công nghệ này là bộ não của AI chatbot, các dữ liệu được đào tạo, cường hóa và cải thiện để giúp chatbot đưa ra các câu trả lời đa dạng hơn.
 
@@ -332,3 +332,4 @@ Vì vậy, chatbot không phải là hệ thống “xong là xong”, mà cần
 * Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B. (2024). A complete survey on LLM-based AI chatbots. arXiv. [https://arxiv.org/abs/2406.16937](https://arxiv.org/abs/2406.16937)
 
 * GeeksforGeeks. (n.d). What is Natural Language Processing? [https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/](https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/)
+
