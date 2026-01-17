@@ -1,3 +1,5 @@
+*Tóm tắt: Bài viết này giúp bạn hiểu AI chatbot là gì và cách chúng hoạt động trong thực tế. Thông qua việc phân tích từng bước của một lượt trò chuyện và các công nghệ cốt lõi như xử lý ngôn ngữ tự nhiên và mô hình AI, bài viết mang đến cái nhìn trực quan, dễ hiểu về lý do vì sao chatbot ngày càng phổ biến và hữu ích trong nhiều lĩnh vực của cuộc sống.*
+
 # 1. Mở đầu: Chatbot là gì?
 
 Hẳn bạn đã từng nhắn tin hỏi thông tin trên website một công ty nào đó, và ngay lập tức nhận được câu trả lời như thể đang chat với một nhân viên tư vấn thật sự. Hoặc đơn giản hơn, bạn đã thử hỏi Siri "Hôm nay thời tiết thế nào?" hay nhờ Google Assistant đặt báo thức. Đó chính là chatbot - một chương trình máy tính được thiết kế để trò chuyện với con người thông qua văn bản hoặc giọng nói, gần giống như cách bạn trò chuyện với một người thật.
@@ -331,3 +333,4 @@ Vì vậy, chatbot không phải là hệ thống “xong là xong”, mà cần
 * Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B. (2024). A complete survey on LLM-based AI chatbots. arXiv. [https://arxiv.org/abs/2406.16937](https://arxiv.org/abs/2406.16937)
 
 * GeeksforGeeks. (n.d). What is Natural Language Processing? [https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/](https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/)
+
