@@ -1,3 +1,5 @@
+*Tóm tắt: Bài viết này giúp bạn hiểu AI chatbot là gì và cách chúng hoạt động trong thực tế. Thông qua việc phân tích từng bước của một lượt trò chuyện và các công nghệ cốt lõi như xử lý ngôn ngữ tự nhiên và mô hình AI, bài viết mang đến cái nhìn trực quan, dễ hiểu về lý do vì sao chatbot ngày càng phổ biến và hữu ích trong nhiều lĩnh vực của cuộc sống.*
+
 # 1. Mở đầu: Chatbot là gì?
 
 Hẳn bạn đã từng nhắn tin hỏi thông tin trên website một công ty nào đó, và ngay lập tức nhận được câu trả lời như thể đang chat với một nhân viên tư vấn thật sự. Hoặc đơn giản hơn, bạn đã thử hỏi Siri "Hôm nay thời tiết thế nào?" hay nhờ Google Assistant đặt báo thức. Đó chính là chatbot - một chương trình máy tính được thiết kế để trò chuyện với con người thông qua văn bản hoặc giọng nói, gần giống như cách bạn trò chuyện với một người thật.
@@ -58,12 +60,13 @@ Trong thời đại số, không ai muốn chờ đợi. Một nghiên cứu c�
 Điều này không chỉ cải thiện trải nghiệm khách hàng mà còn giúp doanh nghiệp tiết kiệm chi phí vận hành đáng kể.
 ## 2.3. Trải nghiệm người dùng: Giao tiếp tự nhiên như con người
 Đây chính là điểm mạnh nhất của AI chatbot so với các thế hệ trước. Thay vì phải nhớ các từ khóa cụ thể hoặc chọn từ menu cứng nhắc, người dùng có thể:
-Nói chuyện tự nhiên:
+
+**Nói chuyện tự nhiên:**
 
 - ❌ Chatbot truyền thống: "Bạn muốn kiểm tra đơn hàng? Vui lòng nhập mã đơn hàng."
 - ✅ AI chatbot: "Chào bạn! Mình thấy bạn có đơn hàng #12345 đang trên đường giao. Bạn muốn biết thêm thông tin gì không?"
 
-Hiểu ngữ cảnh:
+**Hiểu ngữ cảnh:**
 
 - Người dùng: "Tôi muốn mua một chiếc điện thoại"
 - Chatbot: "Bạn có ngân sách dự kiến bao nhiêu?"
@@ -302,7 +305,6 @@ Dù rất hữu ích, AI chatbot vẫn có những giới hạn rõ ràng:
 Một kết luận cho rằng chatbot hiệu quả nhất khi được thiết kế để bổ trợ con người, chứ không phải đóng vai trò như một “con người nhân tạo”.
 
 ## 6.3. Chatbot phụ thuộc rất lớn vào dữ liệu huấn luyện
-
 
 Chất lượng của AI chatbot phụ thuộc trực tiếp vào:
 
