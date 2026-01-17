@@ -1,5 +1,3 @@
-*Tóm tắt: Bài viết này giúp bạn hiểu AI chatbot là gì và cách chúng hoạt động trong thực tế. Thông qua việc phân tích từng bước của một lượt trò chuyện và các công nghệ cốt lõi như xử lý ngôn ngữ tự nhiên và mô hình AI, bài viết mang đến cái nhìn trực quan, dễ hiểu về lý do vì sao chatbot ngày càng phổ biến và hữu ích trong nhiều lĩnh vực của cuộc sống.*
-
 # 1. Mở đầu: Chatbot là gì?
 
 Hẳn bạn đã từng nhắn tin hỏi thông tin trên website một công ty nào đó, và ngay lập tức nhận được câu trả lời như thể đang chat với một nhân viên tư vấn thật sự. Hoặc đơn giản hơn, bạn đã thử hỏi Siri "Hôm nay thời tiết thế nào?" hay nhờ Google Assistant đặt báo thức. Đó chính là chatbot - một chương trình máy tính được thiết kế để trò chuyện với con người thông qua văn bản hoặc giọng nói, gần giống như cách bạn trò chuyện với một người thật.
@@ -11,7 +9,7 @@ Trong bài viết này, chúng tôi sẽ đưa bạn đi từ những khái ni�
 
 ## 1.2. Hãy cùng phân biệt hai "thế hệ" chatbot:
 <p align="center">
-  <img src="images\rule_ai_chatbot.png" alt="Quy trình chat" width="600"><br/>
+  <img src="https://aioconquer.aivietnam.edu.vn/static/uploads/20260116_095833_3e05dc57.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 1.1. Hai thế hệ chatbot</em>
 </p>
 
@@ -79,7 +77,7 @@ AI chatbot có thể phân tích lịch sử tương tác, sở thích của ng�
 ## 2.4. Các ứng dụng thực tế
 AI chatbot đã và đang xuất hiện ở khắp mọi nơi:
 <p align="center">
-  <img src="images\chatbot_usecase_mindmap.png" alt="Các ứng dụng thực tế của AI chatbot" width="600"><br/>
+  <img src="images\chatbot_usecase_mindmap.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 2.1. Các ứng dụng thực tế của AI chatbot</em>
 </p>
 
@@ -104,11 +102,6 @@ AI chatbot đã và đang xuất hiện ở khắp mọi nơi:
 - ChatGPT, Claude: Trợ lý viết lách, lập trình, brainstorming ý tưởng
 - Siri, Google Assistant: Điều khiển thiết bị thông minh, đặt lịch hẹn
 
-
-
-
-
-
 # 3. Quy trình một lượt chat diễn ra như thế nào?
 
 Bạn từng tự hỏi: Từ lúc bạn nhấn Enter đến khi chatbot trả lời chỉ tốn vài giây, điều gì đã xảy ra?
@@ -117,7 +110,7 @@ Bạn từng tự hỏi: Từ lúc bạn nhấn Enter đến khi chatbot trả l
 Cách hoạt động của các chatbot sử dụng NLP (Natural Language Processing) thực chất bao gồm một chuỗi các bước khá logic để hiểu và trả lời người dùng một cách tự nhiên. Mình giải thích ngắn gọn, đơn giản như sau:
 
 <p align="center">
-  <img src="images/AI_chatbot_WorkFlow.svg" alt="Quy trình chat" width="600"><br/>
+  <img src="images/AI_chatbot_WorkFlow.svg" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 3.1. Quy trình xử lý một lượt chat của AI chatbot sử dụng NLP</em>
 </p>
 
@@ -125,7 +118,7 @@ Cách hoạt động của các chatbot sử dụng NLP (Natural Language Proces
 
 Khi bạn gửi tin nhắn, chatbot sẽ phân tích đoạn văn: tách thành từng từ (tokenization), xác định loại từ (danh từ, động từ…), và nhận diện các thông tin quan trọng như tên người, ngày tháng, địa điểm… Nói đơn giản là bước “đọc và hiểu sơ bộ” nội dung bạn vừa nhập.
 <p align="center">
-  <img src="images\input_processing.png" alt="Quy trình chat" width="600"><br/>
+  <img src="images\input_processing.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 3.2. Xử lý đầu vào (Input Processing)</em>
 </p>
 
@@ -133,10 +126,9 @@ Khi bạn gửi tin nhắn, chatbot sẽ phân tích đoạn văn: tách thành 
 
 Sau khi phân tích, chatbot xác định mục đích chính của bạn: bạn đang hỏi thông tin, yêu cầu làm gì đó, phản hồi, hay chỉ trò chuyện thôi? Bước này thường dùng mô hình phân loại để gán một nhãn ý định (intent). Nhờ vậy bot biết nên tra dữ liệu, gọi API, hay sinh câu trả lời tự nhiên.
 <p align="center">
-  <img src="images\intent_recognition.png" alt="Quy trình chat" width="600"><br/>
+  <img src="images\intent_recognition.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 3.3. Nhận diện ý định (Intent Recognition)</em>
 </p>
-
 
 **3. Quản lý hội thoại (Dialogue Management)**
 
@@ -146,7 +138,6 @@ Sau khi phân tích, chatbot xác định mục đích chính của bạn: bạn
 - Chọn hành động tiếp theo: trả lời trực tiếp, gọi API (ví dụ tra lịch bay), cập nhật trạng thái, hay hỏi - thêm.
 - Hệ thống quản lý giống như người điều phối cuộc trò chuyện để không bị lạc đề hoặc quên thông tin quan trọng.
 
-
 **4. Tạo câu trả lời (Response Generation)**
 
 Dựa trên ý định và ngữ cảnh, bot sẽ:<br/>
@@ -154,10 +145,9 @@ Dựa trên ý định và ngữ cảnh, bot sẽ:<br/>
 - Thực hiện một hành động nào đó (như tra cứu, đặt lệnh)
 - Hoặc tự tạo câu trả lời tự nhiên bằng các kỹ thuật sinh ngôn ngữ (natural language generation).
 <p align="center">
-  <img src="images\dialogue_management.png" alt="Quy trình chat" width="600"><br/>
+  <img src="images\dialogue_management.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 3.4. Quản lý hội thoại và sinh câu trả lời</em>
 </p>
-
 
 **5. Học hỏi và cải thiện**
 
@@ -166,7 +156,7 @@ Thông qua dữ liệu tương tác, phản hồi của người dùng và các 
 
 Nhờ cơ chế này, chatbot càng được sử dụng nhiều thì càng “thông minh” và linh hoạt hơn.
 <p align="center">
-  <img src="images\feedback.png" alt="Quy trình chat" width="600"><br/>
+  <img src="images\feedback.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 3.5. Chatbot học hỏi và tối ưu dựa trên phản hồi người dùng</em>
 </p>
 
@@ -174,12 +164,11 @@ Nhờ cơ chế này, chatbot càng được sử dụng nhiều thì càng “t
 
 Cuối cùng, bot gửi lại câu trả lời dưới dạng văn bản (hoặc giọng nói), sao cho dễ đọc và thân thiện nhất có thể.
 <p align="center">
-  <img src="images\chat-ui.gif" alt="Quy trình chat" width="600"><br/>
+  <img src="images\chat-ui.gif" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 3.6. Chatbot phản hồi sao cho dễ đọc và thân thiện nhất với người dùng</em>
 </p>
 
 *Quy trình này nghe có vẻ dài dòng nhưng thực tế nó diễn ra chỉ trong vài giây. Tất cả đều được xử lý tự động để mang lại cho bạn cảm giác như đang trò chuyện với một người bạn thực sự chứ không phải một cỗ máy vô tri.*
-
 
 # 4. Các công nghệ chính trong AI chatbot
 
@@ -195,7 +184,7 @@ Ví dụ:
 "Book a flight tomorrow" → ["Book", "a", "flight", "tomorrow"]
 
 <p align="center">
-  <img src="images\part4_tokenization.png" alt="Quy trình chat" width="600"><br/>
+  <img src="images\part4_tokenization.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 4.1. Tokenization</em>
 </p>
 
@@ -204,14 +193,14 @@ Ví dụ:
 "What's the weather in **Chicago** tomorrow?" → **Chicago** là thực thể chính về địa điểm để chatbot đưa ra câu trả lời về thời tiết.
 
 <p align="center">
-  <img src="images\part4_NER.png" alt="Quy trình chat" width="600"><br/>
+  <img src="images\part4_NER.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 4.2. NER - Named Entity Recognition</em>
 </p>
 
 - Sentiment Analysis: Phân tích cảm xúc. Đóng vai trò nhận diện cảm xúc của người dùng trong đoạn hội thoại, từ đó đưa ra câu trả lời với ngôn từ phù hợp, tránh phật ý người dùng. Kĩ thuật này giúp cho AI chatbot trả lời được tự nhiên, "cảm xúc" hơn và tăng trải nghiệm của người dùng chatbot.
 
 <p align="center">
-  <img src="images\part4_sentiment_analysis.png" alt="Quy trình chat" width="600"><br/>
+  <img src="images\part4_sentiment_analysis.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 4.3. Sentiment Analysis</em>
 </p>
 
@@ -226,7 +215,7 @@ Deep Learning: Các thuật toán học sâu giúp bổ trợ và đào tạo s�
 LLM: Mô hình ngôn ngữ lớn chứa lượng dữ liệu khổng lồ về ngôn ngữ như ngữ pháp, chính tả, các ngôn ngữ khác nhau. Mô hình này được dùng trong khâu đào tạo chatbot như một phương pháp để đào tạo chatbot, giúp chatbot phân tích chính xác hội thoại với người dùng cũng như đưa ra câu trả lời tự nhiên hơn.
 
 <p align="center">
-  <img src="images\part4_ML_DL_LLM_GenAI.png" alt="Quy trình chat" width="600"><br/>
+  <img src="images\part4_ML_DL_LLM_GenAI.png" style="margin: 0 auto; display: block;"><br/>
   <em>Hình 4.4. Các công nghệ dùng để đào tạo AI chatbot</em>
 </p>
 
@@ -238,7 +227,7 @@ Ngoài khả năng trả lời câu hỏi của người dùng, AI chatbot còn 
 
 # 5. Các ví dụ so sánh 
 
-**5.1. Chatbot và trợ lý con người: giống và khác nhau ở đâu?**
+## 5.1. Chatbot và trợ lý con người: giống và khác nhau ở đâu?
 
 Hãy tưởng tượng bạn bước vào một cửa hàng điện thoại và hỏi:
 
@@ -264,7 +253,7 @@ Trong khi đó, AI chatbot xử lý câu hỏi theo cách khác:
 
 Nói cách khác, chatbot hiện đại chủ yếu hoạt động bằng cách tạo phản hồi dựa trên xác suất, chứ không có khả năng hiểu hay suy luận như con người.
 
-**5.2. So sánh giữa các chatbot phổ biến: ChatGPT, Gemini, Copilot**
+## 5.2. So sánh giữa các chatbot phổ biến: ChatGPT, Gemini, Copilot
 
  Mặc dù đều được gọi là “AI chatbot”, nhưng mỗi hệ thống **được thiết kế cho mục tiêu khác nhau**.
 
@@ -291,7 +280,7 @@ Nói đơn giản:
 Điểm khác nhau nằm ở **cách triển khai và ngữ cảnh sử dụng**, không hẳn là “ai thông minh hơn ai”.
 
 # 6. Những vấn đề thường gặp và giới hạn của AI chatbot 
-**6.1. Chatbot có thể hiểu nhầm nhưng trả lời rất tự tin**
+## 6.1. Chatbot có thể hiểu nhầm nhưng trả lời rất tự tin
 
 Một đặc điểm dễ gây hiểu lầm của AI chatbot là: **trả lời nghe rất hợp lý, nhưng vẫn có thể sai.**
 
@@ -299,7 +288,7 @@ Nguyên nhân là vì chatbot không kiểm chứng thông tin như con người
 
 Đây là hạn chế cốt lõi của các mô hình ngôn ngữ: chúng xử lý ngôn ngữ dựa trên mẫu thống kê, không có hiểu biết thực sự về thế giới.
 
-**6.2. Chatbot không thể thay thế hoàn toàn con người**
+## 6.2. Chatbot không thể thay thế hoàn toàn con người
 
 Dù rất hữu ích, AI chatbot vẫn có những giới hạn rõ ràng:
 
@@ -313,7 +302,8 @@ Dù rất hữu ích, AI chatbot vẫn có những giới hạn rõ ràng:
 
 Một kết luận cho rằng chatbot hiệu quả nhất khi được thiết kế để bổ trợ con người, chứ không phải đóng vai trò như một “con người nhân tạo”.
 
-**6.3. Chatbot phụ thuộc rất lớn vào dữ liệu huấn luyện**
+## 6.3. Chatbot phụ thuộc rất lớn vào dữ liệu huấn luyện
+
 
 Chất lượng của AI chatbot phụ thuộc trực tiếp vào:
 
@@ -328,28 +318,16 @@ Vì vậy, chatbot không phải là hệ thống “xong là xong”, mà cần
 
 *Qua bài viết này, bạn đã có cái nhìn tổng quan về AI chatbot: từ khái niệm cơ bản, lý do ra đời, quy trình xử lý một lượt trò chuyện cho đến các công nghệ cốt lõi bên trong. Nhờ sự kết hợp giữa xử lý ngôn ngữ tự nhiên và các mô hình AI hiện đại như Large Language Models, chatbot bây giờ không chỉ trả lời theo kịch bản có sẵn mà còn có khả năng hiểu ngữ cảnh, tạo phản hồi linh hoạt và học hỏi dần theo thời gian. Chính vì vậy, AI chatbot đang trở thành một công cụ hữu ích trong nhiều lĩnh vực như chăm sóc khách hàng, học tập, làm việc và giải trí, giúp tiết kiệm thời gian, nâng cao trải nghiệm người dùng và mở ra nhiều tiềm năng ứng dụng trong tương lai.*
 
-
 **REFERENCES**
 
- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., … Amodei, D. (2020). Language models are few-shot learners. Advances in Neural Information Processing Systems, 33, 1877–1901. https://arxiv.org/abs/2005.14165
+* Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., … Amodei, D. (2020). Language models are few-shot learners. Advances in Neural Information Processing Systems, 33, 1877–1901. [https://arxiv.org/abs/2005.14165](https://arxiv.org/abs/2005.14165)
 
-Hovy, D., & Prabhumoye, S. (2021). Five sources of bias in natural language processing. Language and Linguistics Compass, 15(8), e12432. https://doi.org/10.1111/lnc3.12432
+* Hovy, D., & Prabhumoye, S. (2021). Five sources of bias in natural language processing. Language and Linguistics Compass, 15(8), e12432. [https://doi.org/10.1111/lnc3.12432](https://doi.org/10.1111/lnc3.12432)
 
-Jurafsky, D., & Martin, J. H. (2023). Speech and language processing (3rd ed., draft). Stanford University. https://web.stanford.edu/~jurafsky/slp3/
+* Jurafsky, D., & Martin, J. H. (2023). Speech and language processing (3rd ed., draft). Stanford University. [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/)
 
-Shum, H.-Y., He, X., & Li, D. (2018). From Eliza to XiaoIce: Challenges and opportunities with social chatbots. arXiv. https://arxiv.org/abs/1812.08989
+* Shum, H.-Y., He, X., & Li, D. (2018). From Eliza to XiaoIce: Challenges and opportunities with social chatbots. arXiv. [https://arxiv.org/abs/1812.08989](https://arxiv.org/abs/1812.08989)
 
-Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B. (2024). A complete survey on LLM-based AI chatbots. arXiv. https://arxiv.org/abs/2406.16937
+* Zhang, Y., Sun, S., Galley, M., Chen, Y.-C., Brockett, C., Gao, X., … Dolan, B. (2024). A complete survey on LLM-based AI chatbots. arXiv. [https://arxiv.org/abs/2406.16937](https://arxiv.org/abs/2406.16937)
 
-https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/
-
-
-
-
-
-
-
-
-
-
-
+* GeeksforGeeks. (n.d). What is Natural Language Processing? [https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/](https://www.geeksforgeeks.org/nlp/what-is-natural-language-processing-nlp-chatbots/)
